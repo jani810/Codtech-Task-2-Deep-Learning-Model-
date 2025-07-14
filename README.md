@@ -64,4 +64,5 @@ This project demonstrates a deep learning approach to classify flower species fr
 
 ## Conclusion
 This project showcases a simple yet effective application of neural networks in classifying real-world structured data. It strengthens understanding of model building, training, evaluation, and visualization in a Data Science workflow.
-
+##OUTPUT
+![Image](https://github.com/user-attachments/assets/260aa2d4-3a52-4aeb-87ee-7482630e87da)
